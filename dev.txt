@@ -1,3 +1,2 @@
 git is comprehensive tool
 git is a light weight tool
-git is popular tool
